@@ -1,0 +1,248 @@
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+H:\_П31816\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+D:\KIN\_Example(MVVM)\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+F:\WPF\Exam\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+F:\WPF\Exam\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+F:\WPF\Exam\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+C:\Users\st.ITSTEP\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+F:\WPF\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\App.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Controls\Rating.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Controls\Star.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Controls\Rating.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Controls\Star.g.cs
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Theme\Brushes.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Theme\Core.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Theme\Icons.baml
+C:\Users\Pau\Desktop\ExamplesMVVM\Example4MVVMLight\obj\Debug\Theme\Core.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe.config
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.exe
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.pdb
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.exe
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\MVVMLight_Sample.pdb
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Controls\Rating.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Controls\Star.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Theme\Brushes.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Theme\Core.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Theme\Icons.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\App.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Controls\Rating.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Controls\Star.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Theme\Core.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\View\DetailInfoWindow.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\App.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.cache
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample_MarkupCompile.lref
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\View\MainWindow.baml
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.g.resources
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\MVVMLight_Sample.Properties.Resources.resources
+C:\Users\Pau\Desktop\WPF_GitHub\ExampWPF_MVVM\Example4MVVMLight\obj\Debug\Example4MVVMLight.csproj.GenerateResource.Cache
